@@ -42,7 +42,7 @@ https://lookerstudio.google.com/reporting/818c16d2-96d7-4745-8b48-5206f939ea7d
     - `python -m venv .env`    (Install Environtment)
     - `.env\Scripts\activate`   (Mengaktifkan Virtual Environment)
 - Install Dependencies
-    - `pip install -r requirement.txt`
+    - `pip install -r requirements.txt`
 
 ## Menjalankan Sistem Machine Learning
 
