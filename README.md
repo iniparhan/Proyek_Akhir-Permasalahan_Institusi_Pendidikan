@@ -29,7 +29,7 @@ https://github.com/dicodingacademy/dicoding_dataset/tree/main/students_performan
 
 Dashboard: 
 ```
-https://lookerstudio.google.com/reporting/b3330771-9852-40f2-a4e7-a32124ffc158
+https://lookerstudio.google.com/reporting/818c16d2-96d7-4745-8b48-5206f939ea7d
 ```
 
 ### Setup Environment
@@ -63,7 +63,7 @@ https://lookerstudio.google.com/reporting/b3330771-9852-40f2-a4e7-a32124ffc158
 * **Curriculum Unit**: Jumlah Curriculum yang dikreditkan, dienrollment, disetujui, dan nilainya. Baik pada semester 1 maupun semester 2'
 
 ```
-https://submission-akhir-kelas-mahir-dd3zig5ngrffqep5tpmcou.streamlit.app/
+https://proyekakhir-permasalahaninstitusipendidikan.streamlit.app/
 ```
 
 ## Conclusion
