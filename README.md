@@ -22,9 +22,15 @@ Beberapa analisis yang dilakukan antara lain:
 
 ## Persiapan
 
-Sumber data: https://github.com/dicodingacademy/dicoding_dataset/tree/main/students_performance
+Sumber data: 
+```
+https://github.com/dicodingacademy/dicoding_dataset/tree/main/students_performance
+```
 
-Dashboard: https://lookerstudio.google.com/reporting/b3330771-9852-40f2-a4e7-a32124ffc158
+Dashboard: 
+```
+https://lookerstudio.google.com/reporting/b3330771-9852-40f2-a4e7-a32124ffc158
+```
 
 ### Setup Environment
 
